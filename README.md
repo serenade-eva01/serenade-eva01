@@ -13,30 +13,24 @@ Learning things · Building stuff that works
 
 ---
 
-Mechatronics student and hobbyist engineer from Egypt, with a background in the STEM high school system. I work at the intersection of embedded systems, control theory, and mechanical design — the place where software tells hardware what to do.
+**About me**
 
-My long-term goal is to work in robotics or automation engineering, with a focus on Japan and Southeast Asia. I'm learning Japanese alongside my technical work — because engineering across cultures matters.
+Mechatronics hobbyist from Egypt. I love working with embedded systems, control theory, and mechanical design
+
+My long-term goal is to work in robotics or automation engineering, with a focus on building QoL devices, and tinkering and improivng pre-existing products.
 
 ---
 
 **What I work with**
 
-- **Microcontrollers** — ESP32, Arduino; moving toward STM32 and bare-metal C
-- **Electronics** — PCB design (KiCad), circuit simulation (LTSpice), sensor integration
+- **Microcontrollers** — ESP32, Arduino
+- **Electronics** — PCB design (KiCad), sensor integration
 - **Control** — PID loops, state machines, RTOS basics
-- **Mechanical** — Fusion 360: enclosures, mechanical assemblies
-- **Languages** — C, C++, Python (serial comms + data viz)
+- **Mechanical** — Fusion 360
+- **Languages** — C, Python
 
 ---
 
 **Projects**
 
-- `self-balancing-robot` — IMU + PID + motor control on ESP32 *(in progress)*
-- More building toward E-JUST Mechatronics Engineering, Sept 2026
-
----
-
-**Reach me**
-
-Open to collaboration on robotics and embedded projects.  
-Find me on [LinkedIn](https://linkedin.com/in/serenade-eva01) — always happy to talk mechatronics.
+- *`Work In Progress`*
