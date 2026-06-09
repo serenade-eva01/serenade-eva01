@@ -1,4 +1,4 @@
-### Hey, I'm Ren, a mechatronics engineer in the making.
+### Hey, I'm Ren, a mechatronics engineer in the making!
 
 Learning things · Building stuff that works
 
@@ -15,9 +15,9 @@ Learning things · Building stuff that works
 
 **About me**
 
-Mechatronics hobbyist from Egypt. I love working with embedded systems, control theory, and mechanical design
+Mechatronics/Tinkering hobbyist from Egypt. I love working with embedded systems, control theory, and mechanical design
 
-My long-term goal is to work in robotics or automation engineering, with a focus on building QoL devices, and tinkering and improivng pre-existing products.
+My long-term goal is to work in robotics or automation engineering, with a focus on building QoL devices and improivng pre-existing products.
 
 ---
 
