@@ -6,10 +6,10 @@ Learning things · Building stuff that works
 
 **Currently learning**
 
-![Bare-metal C](https://img.shields.io/badge/bare--metal-C-EEEDFE?style=flat&labelColor=EEEDFE&color=3C3489)
-![Python](https://img.shields.io/badge/Python-learning-E1F5EE?style=flat&labelColor=E1F5EE&color=085041)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-CAD-E6F1FB?style=flat&labelColor=E6F1FB&color=0C447C)
-![PCB Design](https://img.shields.io/badge/PCB-design-FAEEDA?style=flat&labelColor=FAEEDA&color=633806)
+![Bare-metal C](https://img.shields.io/badge/bare--metal_C-%23f2eaff?style=flat)
+![Python](https://img.shields.io/badge/Python-%23fbeed8?style=flat)
+![Fusion 360](https://img.shields.io/badge/Fusion360-%23e0f3ef?style=flat)
+![PCB Design](https://img.shields.io/badge/PCB_design-hsl(167%2C%2084%25%2C%2092%25)?style=flat)
 
 ---
 
