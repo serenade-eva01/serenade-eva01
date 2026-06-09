@@ -1,4 +1,4 @@
-### Hey, I'm Omar, a mechatronics engineer in the making!
+### Hey, I'm Ren, a mechatronics engineer in the making!
 
 Learning things · Building stuff that works
 
@@ -23,11 +23,11 @@ My long-term goal is to work in robotics or automation engineering, with a focus
 
 **What I work with**
 
-- **Microcontrollers** — ESP32, Arduino
-- **Electronics** — PCB design (KiCad), sensor integration
-- **Control** — PID loops, state machines, RTOS basics
-- **Mechanical** — Fusion 360
-- **Languages** — C, Python
+- **Microcontrollers** - ESP32, Arduino
+- **Electronics** - PCB design (KiCad), sensor integration
+- **Control** - PID loops, state machines, RTOS basics
+- **Mechanical** - Fusion 360
+- **Languages** - C, Python
 
 ---
 
