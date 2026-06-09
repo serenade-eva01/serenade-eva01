@@ -1,4 +1,4 @@
-### Hey, I'm Ren, a mechatronics engineer in the making!
+### Hey, I'm Omar, a mechatronics engineer in the making!
 
 Learning things · Building stuff that works
 
